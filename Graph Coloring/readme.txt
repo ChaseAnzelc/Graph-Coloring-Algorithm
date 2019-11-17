@@ -7,12 +7,6 @@ In this assignment I created a program to color a graph using stack.
 The program outputs the color of nodes if it is colorable by the number of colors 
 inputed. If it is not colorable the program will display that it is not.
 
-HOW TO DOWNLOAD FROM BLACKBOARD
-
-1.Download the Assignment2.zip from blackboard to your desktop.
-2.Unzip the Assignment2.zip to the desktop.
-
-
 HOW TO COMPILE
 1. open the command prompt
 2. type "cd Desktop" to change directory to the desktop 
