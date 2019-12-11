@@ -1,6 +1,6 @@
 # Graph-Coloring-Algorithm-Design
 Graph Coloring Application
 
-![](/imageColoring.PNG)
+![](/imageColoring.png)
 
 ![](/cmdColoring.PNG)
