@@ -1,4 +1,4 @@
-# Graph Coloring Algorithm Design
+# Graph Coloring Algorithm
 Graph Coloring Application
 
 <img src="/imageColoring.png" width="500"></img>
